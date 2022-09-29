@@ -21,6 +21,15 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
+User sees app icon in home screen and styled launch screen.
 <img src='http://g.recordit.co/Ppxia8JQMc.gif' title='App Icon in home screen and styled launch scrren' width='' alt='Video Walkthrough' />
+
+User can log in and out
+<img src='http://g.recordit.co/uliKybcX3U.gif' title='User can log in and out' width='' alt='Video Walkthrough' />
+
+User stays logged in across restarts
+<img src='http://g.recordit.co/erQeNqKJjw.gif' title='User stays logged in across restarts' width='' alt='Video Walkthrough' />
+
+User can view tweets with the user profile picture, username, and tweet text.
+User can pull to refresh and load past tweets infinitely
+<img src='http://g.recordit.co/rjm3vbTZzV.gif' title='User can view tweets with the user profile picture, username, and tweet text.User can pull to refresh and load past tweets infinitely' width='' alt='Video Walkthrough' />

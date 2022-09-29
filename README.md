@@ -34,4 +34,4 @@ User can view tweets with the user profile picture, username, and tweet text.
 User can pull to refresh and load past tweets infinitely
 
 
-<img src='http://g.recordit.co/Ppxia8JQMc.gif' title='' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/rjm3vbTZzV.gif' title='' width='' alt='Video Walkthrough' />
